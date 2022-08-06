@@ -60,7 +60,7 @@
     * [pdm30: ]() 
  ---
  
- ## [도전] 심화 학습 자료
+ ## [도전] 심화 학습 자료 (각 링크는 오른쪽 마우스 클릭으로 새 탭으로 여세요.)
 
  - [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks) 
  > https://subinium.github.io/Keras/
