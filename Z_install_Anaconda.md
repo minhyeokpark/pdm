@@ -11,3 +11,4 @@
 5. pip install keras-nlp
 6. pip install streamlit
 7. pip install pydot
+  - Download graphviz and install it.
