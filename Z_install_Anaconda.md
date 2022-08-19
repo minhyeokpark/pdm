@@ -15,5 +15,6 @@
 8. pip install finance-datareader 
 9. pip install beautifulsoup4
 
-## VsCode 설치 
-## PyTorch install (up to your choice!)
+---
+- ### VsCode 설치 
+- ### PyTorch install (up to your choice!)
