@@ -12,3 +12,4 @@
 6. pip install streamlit
 7. pip install pydot
    * Download graphviz and install it.
+8. !pip install finance-datareader 
