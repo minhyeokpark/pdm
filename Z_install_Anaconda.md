@@ -13,8 +13,8 @@
 7. pip install pydot
    * Download graphviz and install it.
 8. pip install finance-datareader 
-9. pip install beautifulsoup4
 
 ---
+
 - ### VsCode 설치 
 - ### PyTorch install (up to your choice!)
