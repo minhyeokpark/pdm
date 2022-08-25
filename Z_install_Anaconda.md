@@ -14,6 +14,7 @@
    * Download graphviz and install it.
 8. pip install opencv-python
 9. pip install finance-datareader 
+10. ..., tensorflow_datasets, tensorflow_addons
 
 ---
 
