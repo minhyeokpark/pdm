@@ -28,22 +28,22 @@ plt.plot(x,y, 'bo', ms=16)
 # plt.show()
 
 ##########################
-def c2f(c):
-    f = 5*(c-32)/9
-    return f
+def f2c(f):
+    c = 5*(f-32)/9
+    return c
 
-c2f(-40)
+f2c(-40)
 
 # c2f([-20,0,20,32])  => Error!
 
-def c2fn(c):
-    fn=list()
-    for tc in c:
-        f = 5*(tc-32)/9
-        fn.append(f)
-    return fn
+def f2cn(f):
+    cn=list()
+    for tf in f:
+        c = 5*(tf-32)/9
+        cn.append(c)
+    return cn
 
-c2fn([-20,0,20, 32])
+f2cn([-20,0,20, 32])
 
 #
 # Py modules
