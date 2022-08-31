@@ -26,9 +26,7 @@
 ---
 * GitHub
   - 수업 노트 관리 및 과제/프로젝트 제출/평가 (평가 단계: #, *, @, @@)
-
-![image](https://user-images.githubusercontent.com/8246219/187568856-9f7c2873-88ae-43f3-b196-fc448050cd07.png)
-
+  
   - 개인별 repo  
     * [pdm01: 강지민]() 
     * [pdm02: 김민구]() 
