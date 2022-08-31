@@ -39,7 +39,7 @@
     * [pdm09: 서준용]() 
     * [pdm10: 신유창]() 
     * [pdm11: 여창준]() 
-    * [pdm12: 원지찬]() 
+    * [pdm12: 원지찬](https://github.com/dnjswlcks67/pdm12) 
     * [pdm13: 이승엽]() 
     * [pdm14: 이진영]() 
     * [pdm15: 정수현](https://github.com/jungsh210/pbm15) 
