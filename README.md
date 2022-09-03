@@ -63,5 +63,5 @@
  - [linear-algebra-for-ML](https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/)
  ---
  
-  #### 연구실: E319, email: chaos21c@gmail.com
+  #### 연구실: E319, email: chaos21c@gmail.com, Teams: yish@live.inje.ac.kr
  
