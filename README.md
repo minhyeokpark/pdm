@@ -30,26 +30,22 @@
   - 개인별 repo  
     * [pdm01: 강지민]() 
     * [pdm02: 김민구]() 
-    * [pdm03: 김수웅]() 
-    * [pdm04: 김재준]() 
+    * [pdm03: 김수웅](https://github.com/rlatndnd9804/pdm03) 
+    * [pdm04: ]() 
     * [pdm05: 김태윤]() 
     * [pdm06: 박민혁]() 
-    * [pdm07: 박수현]() 
+    * [pdm07: ]() 
     * [pdm08: 박희주]() 
     * [pdm09: 서준용]() 
     * [pdm10: 신유창]() 
-    * [pdm11: 여창준]() 
+    * [pdm11: 여창준](https://github.com/dpfpsel0622/pdm11) 
     * [pdm12: 원지찬](https://github.com/dnjswlcks67/pdm12) 
-    * [pdm13: 이승엽]() 
-    * [pdm14: 이진영]() 
+    * [pdm13: ]() 
+    * [pdm14: ]() 
     * [pdm15: 정수현](https://github.com/jungsh210/pbm15) 
     * [pdm16: 조현호]() 
     * [pdm17: 조현훈]() 
-    * [pdm18: 한재웅]() 
-    * [pdm19: ]() 
-    * [pdm20: ]() 
-    * [pdm21: ]() 
-    * [pdm22: ]() 
+
 
 ---
  
