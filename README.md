@@ -35,7 +35,7 @@
     * [pdm05: 김태윤]() 
     * [pdm06: 박민혁]() 
     * [pdm07: ]() 
-    * [pdm08: 박희주]() 
+    * [pdm08: 박희주](https://github.com/suyangegrong/pdm08) 
     * [pdm09: 서준용]() 
     * [pdm10: 신유창]() 
     * [pdm11: 여창준](https://github.com/dpfpsel0622/pdm11) 
