@@ -1,6 +1,7 @@
 # chap02 - numpy
 import numpy as np
 
+# ndarray
 a = np.array([1, 2, 3])
 
 a
@@ -51,6 +52,7 @@ arr = np.array([2, 1, 5, 3, 7, 4, 6, 8])
 
 np.sort(arr)
 
+# 배열 합치기
 x = np.array([[1, 2], [3, 4]])
 
 y = np.array([[5, 6], [7, 8]])
@@ -61,6 +63,7 @@ np.vstack((x, y))
 
 np.hstack((x, y))
 
+# reshape
 a = np.arange(12)
 
 a.shape
@@ -79,6 +82,7 @@ arr1
 
 arr2
 
+# 차원 확장
 a = np.array([1, 2, 3, 4, 5, 6])
 
 a.shape
@@ -106,6 +110,7 @@ y
 
 ages[ ages > 20 ]
 
+# 인덱싱
 a = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 
 a[0, 2]
@@ -114,6 +119,7 @@ a[0, 0] = 12
 
 a
 
+# 슬라이싱
 a = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 
 a[0:2, 1:3]
@@ -185,6 +191,7 @@ mu, sigma = 0, 0.1 	# 평균과 표준 편차
 
 np.random.normal(mu, sigma, 5)
 
+# unique()
 a = np.array([11, 11, 12, 13, 14, 15, 16, 17, 12, 13, 11, 14, 18, 19, 20])
 
 unique_values = np.unique(a)
@@ -200,6 +207,7 @@ x = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]])
 
 x.flatten()
 
+########################
 # Pandas
 import numpy as np
 import pandas as pd
@@ -207,6 +215,7 @@ import pandas as pd
 x = pd.read_csv('countries.csv', header=0).values
 print(x)
 
+########################
 # matplotlib
 import matplotlib.pyplot as plt
 # %matplotlib inline
@@ -272,7 +281,7 @@ plt.show()
 import matplotlib.pyplot as plt 
 import numpy as np 
   
-X = np.linspace(-10, 10, 100) 
+X = np.linspace(-10, 10, 101) 
 Y = 1/(1 + np.exp(-X)) 
   
 plt.plot(X, Y) 
@@ -289,7 +298,7 @@ def sigmoid(x):
     ds=s*(1-s)  		# 시그모이드 함수 1차 미분 함수
     return s,ds
 
-X = np.linspace(-10, 10, 100) 
+X = np.linspace(-10, 10, 101) 
 Y1, Y2 = sigmoid(X)
   
 plt.plot(X, Y1, X, Y2) 
