@@ -35,7 +35,7 @@
     * [pdm06: 박민혁](https://github.com/minhyeokpark/pdm06) 
     * [pdm08: 박희주](https://github.com/suyangegrong/pdm08) 
     * [pdm09: 서준용](https://github.com/joi0804/pdm09) 
-    * [pdm10: 신유창](https://github.com/pdm10) #
+    * [pdm10: 신유창](https://github.com/pdm10/pdm10) 
     * [pdm11: 여창준](https://github.com/dpfpsel0622/pdm11) 
     * [pdm12: 원지찬](https://github.com/dnjswlcks67/pdm12) 
     * [pdm15: 정수현](https://github.com/jungsh210/pbm15) 
