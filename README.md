@@ -28,11 +28,11 @@
   - 수업 노트 관리 및 과제/프로젝트 제출/평가 (평가 단계: #, *, @, @@)
   
   - 개인별 repo  
-    * [pdm01: 강지민]() #
+    * [pdm01: 강지민](https://github.com/rkdwlals37/pdm01) 
     * [pdm02: 김민구]() #
     * [pdm03: 김수웅](https://github.com/rlatndnd9804/pdm03) 
     * [pdm05: 김태윤]() #
-    * [pdm06: 박민혁]() #
+    * [pdm06: 박민혁](https://github.com/minhyeokpark/pdm06) 
     * [pdm08: 박희주](https://github.com/suyangegrong/pdm08) 
     * [pdm09: 서준용]() #
     * [pdm10: 신유창]() #
@@ -40,7 +40,7 @@
     * [pdm12: 원지찬](https://github.com/dnjswlcks67/pdm12) 
     * [pdm15: 정수현](https://github.com/jungsh210/pbm15) 
     * [pdm16: 조현호]() #
-    * [pdm17: 조현훈]() #
+    * [pdm17: 조현훈](https://github.com/pdm17/pdm17) 
 
 
 ---
